@@ -1,0 +1,1 @@
+The SOLID principles are a set of five design principles in object-oriented programming intended to make software designs more understandable, flexible, and maintainable. The S stands for Single Responsibility Principle
